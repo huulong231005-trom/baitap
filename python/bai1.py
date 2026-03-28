@@ -1,0 +1,7 @@
+# Bài 1: Kiểm tra số chẵn lẻ
+n = int(input("Nhập vào một số nguyên dương: "))
+
+if n % 2 == 0:
+    print("Đây là một số chẵn")
+else:
+    print("Đây là một số lẻ")
